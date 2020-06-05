@@ -1,9 +1,12 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "Biocellion SPC",
 "productName": "CMMC POC",
 "dataUrl": "WebPOC.data.unityweb",
 "wasmCodeUrl": "WebPOC.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebPOC.wasm.framework.unityweb",
+"asmCodeUrl": "WebPOC.asm.code.unityweb",
+"asmMemoryUrl": "WebPOC.asm.memory.unityweb",
+"asmFrameworkUrl": "WebPOC.asm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
